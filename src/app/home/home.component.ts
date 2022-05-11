@@ -26,90 +26,46 @@ export class HomeComponent implements OnInit {
   subCategories: any[]
   categories: any[] = [
     {
-      name: 'Furniture',
+      name: 'Sports Merch',
       img: 'https://arasset.azureedge.net/webar/icons/furniture_industry.jpg',
-      industry: 'furniture'
+      industry: 'SportsMerch'
     },
     {
-      name: 'Fashion',
+      name: 'Sports Equipment',
       img: 'https://arasset.azureedge.net/webar/icons/fashion_industry.jpg',
-      industry: 'fashion'
+      industry: 'SportsEquipment'
     },
     {
-      name: 'Machinery',
+      name: 'GOAT',
       img: 'https://arasset.azureedge.net/webar/icons/machinery_industry.jpg',
-      industry: 'machinery'
-    },
-    {
-      name: 'Food',
-      img: 'https://webarmodels.blob.core.windows.net/webar/food_industry.jpg'
+      industry: 'GOAT'
     }
-    
+  
   ];
 
-  subCategoriesFashion: any[] = [
+  subCategoriesSportsMerch: any[] = [
     {
-      name: 'Footwear',
+      name: 'Jersey',
       img: 'https://arasset.azureedge.net/webar/icons/footwear.png'
-    },
-    {
-      name: 'Handbags',
-      img: 'https://arasset.azureedge.net/webar/icons/handbags.png'
-    },
-    {
-      name: 'Menswear',
-      img: 'https://arasset.azureedge.net/webar/icons/menswear.png'
-    },
-    {
-      name: 'Womenswear',
-      img: 'https://arasset.azureedge.net/webar/icons/womenswear.png'
     }
   ]
 
-  subCategoriesFurniture: any[] = [
+  subCategoriesSportsEquipment: any[] = [
     {
-      name: 'Rack',
+      name: 'Ball',
       img: 'https://arasset.azureedge.net/webar/icons/rack.png'
   },
   {
-      name: 'Sofa',
+      name: 'Shoe',
       img: 'https://arasset.azureedge.net/webar/icons/sofa.png'
   },
   {
-      name: 'Set',
+      name: 'Trophy',
       img: 'https://arasset.azureedge.net/webar/icons/set.png'
-  },
-  {
-      name: 'Cubicle',
-      img: 'https://arasset.azureedge.net/webar/icons/cubicle.png'
-  },
-  {
-      name: 'Table',
-      img: 'https://arasset.azureedge.net/webar/icons/table.png'
-  },
-  {
-      name: 'Chair',
-      img: 'https://arasset.azureedge.net/webar/icons/chair.png'
-  },
-  {
-      name: 'Lounge',
-      img: 'https://arasset.azureedge.net/webar/icons/lounge.png'
-  },
-  {
-      name: 'Large Seater',
-      img: 'https://arasset.azureedge.net/webar/icons/large-seater.png'
-  },
-  {
-      name: 'Lamp',
-      img: 'https://arasset.azureedge.net/webar/icons/lamp.png'
-  },
-  {
-      name: 'Hearth',
-      img: 'https://arasset.azureedge.net/webar/icons/hearth.png'
   }
   ]
 
-  subCategoriesMachinery: any[] = [
+  subCategoriesGOAT: any[] = [
     
       {
         name: 'Printer',
@@ -117,29 +73,7 @@ export class HomeComponent implements OnInit {
       }
     
   ]
-  subCategoriesFood: any[] = [
-    
-    {
-      name: 'Meal',
-      img: 'https://arasset.azureedge.net/webar/icons/meal.png'
-    },
-    {
-      name: 'Bakery',
-      img: 'https://arasset.azureedge.net/webar/icons/bakery.png'
-    },
-    {
-      name: 'Barbeque',
-      img: 'https://arasset.azureedge.net/webar/icons/barbeque.png'
-    },
-    {
-      name: 'Pizza',
-      img: 'https://arasset.azureedge.net/webar/icons/pizza.png'
-    },
-    {
-      name: 'Ramen',
-      img: 'https://arasset.azureedge.net/webar/icons/ramen.png'
-    }
-]
+
   
   loading = false;
   productPageCounter = 1;
@@ -181,7 +115,7 @@ export class HomeComponent implements OnInit {
     }, 500);
 
     //Hack Products API Call
-    this.subCategories = this.subCategoriesFurniture 
+    this.subCategories = this.subCategoriesSportsMerch 
     this.showCategory = false;
     this.getIndustry()
     this.getCategory()
@@ -241,7 +175,7 @@ export class HomeComponent implements OnInit {
             this.industry = res.industry
         }
         else{
-            this.industry = "Furniture" 
+            this.industry = "SportsMerch" 
         }
         console.log(this.industry)
     })
@@ -262,17 +196,16 @@ getCategory(){
 }
 }
 getCategoriesByIndustry(industry){
-  if(industry == "Fashion"){
-      this.subCategories=this.subCategoriesFashion;   
+  if(industry == "SportsMerch"){
+
+      this.subCategories=this.subCategoriesSportsMerch;   
     }
-    else if (industry =="Furniture"){
-      this.subCategories=this.subCategoriesFurniture;
+    else if (industry =="SportsEquipment"){
+      console.log("inside iequip")
+      this.subCategories=this.subCategoriesSportsEquipment;
     }
-    else if (industry =="Machinery"){
-      this.subCategories=this.subCategoriesMachinery;
-    }
-    else if (industry =="Food"){
-      this.subCategories=this.subCategoriesFood;
+    else if (industry =="GOAT"){
+      this.subCategories=this.subCategoriesGOAT;
     }
 }
 industrySelect(industry,category){
