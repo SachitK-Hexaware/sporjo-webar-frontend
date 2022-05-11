@@ -1,0 +1,114 @@
+<div class="product-container" *ngIf="!loading">
+  <div>
+    <div class="product-container__image">
+      <!-- Single Image -->
+      <!-- <swiper [zoom]="true" [slidesPerView]="1" [spaceBetween]="50" [pagination]="true"
+        *ngIf="showcaseImages.length === 0">
+        <ng-template swiperSlide [zoom]="true">
+          <img src="{{ product.product_image_url }}" alt="`Product image`" />
+        </ng-template>
+      </swiper> -->
+      <div style="padding: 35px;" class="row">
+        <div class="col-md-6 float-center">
+          <model-viewer id="dimension-demo" ar ar-modes="scene-viewer webxr quick-look" ar-scale="fixed" camera-orbit="-30deg auto auto"
+            max-camera-orbit="auto 100deg auto" shadow-intensity="1" camera-controls src={{product.src}}
+            ios-src={{product.ios_src}} alt="" poster={{product.product_image_url}} loading="lazy"
+            style="position: relative;"
+            [ngStyle]="{'height':(screenWidth > 1200)? '450px' : '300px', 'width':(screenWidth > 1200)? '600px' : '350px'}">
+            <!-- <button class="btn-dark" (click)="openPopup()" style="vertical-align: middle;">
+           
+            <div> View in AR</div>
+          </button> -->
+          </model-viewer>
+        </div>
+        <div class="col-md-6">
+          <img *ngIf="false" src={{qrResult}} />
+          <div class="product-container__details" style="float: center; ">
+            <h2 class="title" style="font-weight: bold;">{{ product.name }}</h2>
+            <div class="reviews">
+              <div class="rating">
+                <i nz-icon nzType="star" nzTheme="fill"></i>
+                <i nz-icon nzType="star" nzTheme="fill"></i>
+                <i nz-icon nzType="star" nzTheme="fill"></i>
+                <i nz-icon nzType="star" nzTheme="fill"></i>
+                <i nz-icon nzType="star"></i>
+              </div>
+              <span class="review-link">10 Review(s) |
+                <span style="cursor: pointer">Add your review</span></span>
+            </div>
+            <div class="category" style="font-weight: bold; font-size: 18px;">
+              {{ product.category }}
+              </div>
+            <div class="price-container">
+              <h2 class="price">{{ product.price | currency: "USD" }}</h2>
+              <span class="availability"></span>
+            </div>
+            <div class="description">{{ product.description }}</div>
+            <button class="btn btn-sm btn-outline-primary" 
+              (click)="open(content)" *ngIf="screenWidth > 1200">
+              View in AR
+              </button> 
+          </div>
+        </div>
+
+
+
+
+
+      </div>
+    </div>
+  </div>
+  <div class="additional"></div>
+</div>
+<!-- <div class="modal" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true" [ngStyle]="{'display':displayStyle}">
+  <div class="modal-dialog modal-dialog-centered" role="document">
+
+    <div class="modal-content" style="text-align: center;">
+
+     
+
+      <div class="row" style="text-align: right;padding:5px">
+
+        <div class="col-md-12">
+
+
+            
+        <button type="button" class="btn-close " data-dismiss="modal" aria-label="Close" (click)="closePopup()">
+
+        </button>
+
+      </div>
+
+      </div>
+      <label class="float-center">Scan with your smartphone to experience in AR.</label>
+
+      <div class="modal-body">
+
+        <img  src={{qrResult}} />
+
+      </div>
+
+     
+
+    </div>
+
+  </div>
+
+</div> -->
+
+<ng-template class="modal-dialog-centered " #content let-modal style="border: 2px !important;">
+  <div style="border: 3px solid #78aaff;" >
+    <div class="modal-header" style="border-bottom: 0px !important; padding-bottom:0px">
+
+      <h2 class="modal-title" id="modal-basic-title" style="text-align: center;line-height:1.2; font-size:18px;">
+        Scan this QR Code with your smartphone to experience our WebAR product
+      </h2>
+      <button type="button" class="close btn-close" aria-label="Close" (click)="modal.dismiss('Cross click')" style="margin-right: 2px;">
+      </button>
+
+    </div>
+    <div class="modal-body" style="text-align: center">
+      <img src={{qrResult}} />
+    </div>
+  </div>
+</ng-template>

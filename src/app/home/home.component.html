@@ -1,0 +1,67 @@
+<div class="home-container">
+  <div class="categories">
+    <!-- <div class="categories__header">
+      <h2>Industries</h2>
+    </div> -->
+    <div class="categories__list">
+      <swiper  [zoom]="false" [slidesPerView]="(screenWidth > 1200) ? 3 : 1" [spaceBetween]="5" [pagination]="true"
+        [loop]="true" [autoplay]="true">
+         <ng-template swiperSlide *ngFor="let c of categories">
+          <a (click)="industrySelect(c.name,'all')">
+            <div class="category-card" style="background:url({{c.img}}); width:100%; transition: transform 0.2s;" [ngStyle]="{'height':'150px'}" >{{ c.name }}</div>
+          </a>
+          
+        </ng-template>
+      </swiper>
+    </div>
+    <div id="subcategories" style="display: block;">
+
+    <div class="categories__list2" style="margin-top: 30px;">
+      <swiper  [zoom]="false" [slidesPerView]="screenWidth > 1200 ? 10 : 3" [spaceBetween]="25" [pagination]="true"
+        [loop]="false">
+         <ng-template swiperSlide *ngFor="let c of subCategories">
+          <a (click)="categorySelect(c.name)" style="text-align: center;">
+           <div style="background-color:	white;"> <div class="category-card2" style="background:url({{c.img}}); width:100%;"></div></div>
+            <div class="category-name">{{c.name}}</div>
+          </a>
+          
+        </ng-template>
+      </swiper>
+    </div>
+  </div>
+  </div>
+  <div class="products" >
+    <div class="products__header">
+      <h2 style="font-weight: bold;">Products</h2>
+    </div>
+    <div *ngIf="loading" class="products__loading">
+      <ng-template #indicatorTemplate>
+        <i
+          nz-icon
+          nzType="loading"
+          [ngStyle]="{ 'font-size': '2rem', margin: '0 auto' }"
+        ></i>
+      </ng-template>
+      <nz-spin nzSimple [nzIndicator]="indicatorTemplate"> </nz-spin>
+    </div>
+    <div class="products__list" *ngIf="!loading">
+      <app-product-card
+        *ngFor="let n of products"
+        [_id]="n._id"
+        [name]="n.name"
+        [description]="n.description"
+        [ios_src]="n.ios_src"
+        [short_description]="n.short_description"
+        [src]="n.src"
+        [product_image_url]="n.product_image_url"
+        [price]="n.price"
+        [industry]="n.industry"
+        
+      >
+      
+      <!-- [onAdd]="cartService.addProduct.bind(cartService)" -->
+      </app-product-card>
+      
+    </div>
+  </div>
+</div>

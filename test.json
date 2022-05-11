@@ -1,0 +1,1750 @@
+{
+    "value": [
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/Book%20Rack_1.usdz",
+            "Src": "https://arasset.azureedge.net/webar/Book%20Rack_1.glb",
+            "DisplayProductNumber": "hexa1018",
+            "Description": "A storage unit with open shelves to keep books and other things of various shapes and sizes and a display shelf. Crafted for compact homes. Suitable for Study rooms and Living room. Sense and sensibility, just like its namesake. Thebook rack slim, compact design belies its capacity. The five open shelves give you room aplenty for your next book shopping spree.",
+            "Model_ID": "Book_Rack_AT",
+            "Color": "Brown",
+            "ColorCode": {
+                "R": 179,
+                "G": 157,
+                "B": 133
+            },
+            "Volume": 352350,
+            "Usage": "Home",
+            "Length": 150,
+            "SubCategory": "Rack",
+            "Height": 81,
+            "Product_Image": "https://arasset.azureedge.net/webar/Book%20Rack_1.png",
+            "PriceText": "$ 499",
+            "Price": 499,
+            "Area": 2349,
+            "Width": 29,
+            "Name": "Book Rack",
+            "Short_Description": "Aesthetic piece of furniture for your work space",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 150,
+                    "Width": 29,
+                    "Height": 81,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/Comfort%20in%20the%20Kitchen.usdz",
+            "Src": "https://arasset.azureedge.net/webar/Comfort%20in%20the%20Kitchen.glb",
+            "DisplayProductNumber": "hexa1002",
+            "Description": "Regardless of it’s size or layout, the kitchen can also function as your office. Transform your “surface” into a standing height desk with the Coordinate Portable Desktop Riser.  A simple lift transforms the  coffee table to laptop table. Great for those prone to bringing home work from the office. And for those who like to put their feet up and binge watch The Office. The elegant oak finish means it can sit pretty in your living room, letting you multitask.",
+            "Model_ID": "WFHSF_2",
+            "Color": "Brown",
+            "ColorCode": {
+                "R": 196,
+                "G": 163,
+                "B": 138
+            },
+            "Volume": 322368,
+            "Usage": "",
+            "Length": 73,
+            "SubCategory": "Set",
+            "Height": 96,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Comfort%20in%20the%20Kitchen.png",
+            "PriceText": "$ 699",
+            "Price": 699,
+            "Area": 7008,
+            "Width": 46,
+            "Name": "Comfort in the Kitchen",
+            "Short_Description": " Uniform horizontal slats to bring an element of play at your kitchen.",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 73,
+                    "Width": 46,
+                    "Height": 96,
+                    "Section": null
+                }
+            ]
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/CrossRoads%20Of%20Style%20and%20Function.usdz",
+            "Src": "https://arasset.azureedge.net/webar/CrossRoads%20Of%20Style%20and%20Function.glb",
+            "DisplayProductNumber": "hexa10001",
+            "Description": "Create a workspace that blends seamlessly into your functional home environment. The ample surface and drawers make it an ideal desk for students and professionals alike. We offer a broad offering so you can choose the form and function that works best for your space!",
+            "Model_ID": "WFHSF_1",
+            "Color": "Grey",
+            "ColorCode": {
+                "R": 123,
+                "G": 122,
+                "B": 122
+            },
+            "Volume": 731640,
+            "Usage": "WFH",
+            "Length": 67,
+            "SubCategory": "Set",
+            "Height": 140,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/CrossRoads%20of%20Style%20and%20Function.png",
+            "PriceText": "$ 699",
+            "Price": 699,
+            "Area": 9380,
+            "Width": 78,
+            "Name": "Crossroads of Style and Function",
+            "Short_Description": "Reflecting  design that is sleek, trendy and functional.",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 67,
+                    "Width": 78,
+                    "Height": 140,
+                    "Section": null
+                }
+            ]
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/Dedicated%20Furniture.usdz",
+            "Src": "https://arasset.azureedge.net/webar/Dedicated%20Furniture.glb",
+            "DisplayProductNumber": "hexa1008",
+            "Description": "This chic space with perfect ergnomics gets the most out of the space occupied while looking elegant. It has a wire manager on either ends and is wide and deep enough to hold an extension cord and all the cables needed to power all of your devices.",
+            "Model_ID": "WFHSF_8",
+            "Color": "Brown",
+            "ColorCode": {
+                "R": 69,
+                "G": 68,
+                "B": 68
+            },
+            "Volume": 3652960,
+            "Usage": "WFH",
+            "Length": 170,
+            "SubCategory": "Set",
+            "Height": 79,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Dedicated%20Furniture.png",
+            "PriceText": "$ 699",
+            "Price": 699,
+            "Area": 21488,
+            "Width": 272,
+            "Name": "Dedicated Furniture",
+            "Short_Description": "Productivity meets style with the Poise table",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 170,
+                    "Width": 272,
+                    "Height": 79,
+                    "Section": null
+                }
+            ]  
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/Make%20it%20your%20Own.usdz",
+            "Src": "https://arasset.azureedge.net/webar/Make%20it%20your%20Own.glb",
+            "DisplayProductNumber": "hexa1005",
+            "Description": "An elegant design that helps you be clutter free. Whenever you feel like working at home, there is a friendly co-worker ready to help you. The executive chair is your table’s best friend and your favourite working companion.",
+            "Model_ID": "WFHSF_5",
+            "Color": "Grey",
+            "ColorCode": {
+                "R": 136,
+                "G": 138,
+                "B": 145
+            },
+            "Volume": 1921280,
+            "Usage": "WFH",
+            "Length": 152,
+            "SubCategory": "Set",
+            "Height": 169,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Make%20it%20your%20Own.png",
+            "PriceText": "$ 699",
+            "Price": 699,
+            "Area": 12008,
+            "Width": 79,
+            "Name": "Make it your Own",
+            "Short_Description": "Crafted in a thin and light design",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 152,
+                    "Width": 79,
+                    "Height": 169,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/Simple%20and%20Inspiring.usdz",
+            "Src": "https://arasset.azureedge.net/webar/Simple%20and%20Inspiring.glb",
+            "DisplayProductNumber": "1001",
+            "Description": "Here, a simple desk can create an office that’s both inspiring and practical. The small storage pedestal helps conceal supplies and files that completes a fully functional home office. The slim proportions and simple design can fit into any kind of work/study space",
+            "Model_ID": "WFHSF_4",
+            "Color": "Brown",
+            "ColorCode": {
+                "R": 221,
+                "G": 195,
+                "B": 179
+            },
+            "Volume": 866400.9,
+            "Usage": "WFH",
+            "Length": 152,
+            "SubCategory": "Set",
+            "Height": 76,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Simple%20and%20Inspiring.png",
+            "PriceText": "$ 699",
+            "Price": 699,
+            "Area": 11552.9,
+            "Width": 75,
+            "Name": "Simple and Inspiring",
+            "Short_Description": "Robust design with bold framework",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 152,
+                    "Width": 75,
+                    "Height": 76,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/Space%20saver.usdz",
+            "Src": "https://arasset.azureedge.net/webar/Space%20saver.glb",
+            "DisplayProductNumber": "hexa1006",
+            "Description": "This approach requires getting the most out of every inch of space by adding a versatile between table with a comfortable Solve task chair. Once the work day is done, nest it away to make room for other activities.",
+            "Model_ID": "WFHSF_6",
+            "Color": "White",
+            "ColorCode": {
+                "R": 217,
+                "G": 217,
+                "B": 216
+            },
+            "Volume": 783900,
+            "Usage": "WFH",
+            "Length": 78,
+            "SubCategory": "Set",
+            "Height": 150,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Space%20Saver.png",
+            "PriceText": "$ 699",
+            "Price": 699,
+            "Area": 10050,
+            "Width": 67,
+            "Name": "Space saver",
+            "Short_Description": " Designed to comfortably and aesthetically provide a working surface",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 78,
+                    "Width": 67,
+                    "Height": 150,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/Teapoy_1.usdz",
+            "Src": "https://arasset.azureedge.net/webar/Teapoy_1.glb",
+            "DisplayProductNumber": "hexa1022",
+            "Description": "Have a seat!  The tea table set makes a great addition to your home. It has an extremely modern contemporary look that helps you set up space in your home, restaurant, office, etc. It is durable and long lasting body.  If you like the no fuss approach, this is the perfect teapoy table for you. ",
+            "Model_ID": "Teapoy_AT_2",
+            "Color": "Brown",
+            "ColorCode": {
+                "R": 208,
+                "G": 193,
+                "B": 172
+            },
+            "Volume": 262400,
+            "Usage": "Home",
+            "Length": 80,
+            "SubCategory": "Set",
+            "Height": 41,
+            "Product_Image": "https://arasset.azureedge.net/webar/Teapoy_1.png",
+            "PriceText": "$ 699",
+            "Price": 699,
+            "Area": 3280,
+            "Width": 80,
+            "Name": "Teapoy Set",
+            "Short_Description": "Contemporary is very current and in trend, of the here and now.",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 80,
+                    "Width": 80,
+                    "Height": 41,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/The%20Bold%20and%20Beautiful.usdz",
+            "Src": "https://arasset.azureedge.net/webar/The%20Bold%20and%20Beautiful.glb",
+            "DisplayProductNumber": "hexa1007",
+            "Description": "This chic space with clean lines excels at all the fundamentals. A clean and elegant table with contemporary book-end design. Comes along with a drawer, wire-manager and compact design to satisfy all needs.",
+            "Model_ID": "WFHSF_7",
+            "Color": "Brown",
+            "ColorCode": {
+                "R": 102,
+                "G": 85,
+                "B": 70
+            },
+            "Volume": 1238328,
+            "Usage": "WFH",
+            "Length": 108,
+            "SubCategory": "Set",
+            "Height": 182,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/The%20Bold%20and%20Beautiful.png",
+            "PriceText": "$ 699",
+            "Price": 699,
+            "Area": 11466,
+            "Width": 63,
+            "Name": "The Bold and Beautiful",
+            "Short_Description": "Enhance your home with your own unique style",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 108,
+                    "Width": 63,
+                    "Height": 182,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://hnicorpcdn.azureedge.net/furniture-mr/web-ar/Two%20seater%20Sofa_1.usdz",
+            "Src": "https://hnicorpcdn.azureedge.net/furniture-mr/web-ar/Two%20seater%20Sofa_1.glb",
+            "DisplayProductNumber": "hexa1023",
+            "Description": "Beautify your space with elegance. Give your back the comfort it needs while adding a hint of finess to your living room décor with this classy sofa. Crafted from premium quality solid wood, the sofa features a two-seater design with textured fabric upholstery that adds to the over-all look of your home-front.",
+            "Model_ID": "Sofa_AT_1",
+            "Color": "White",
+            "ColorCode": {
+                "R": 192,
+                "G": 178,
+                "B": 164
+            },
+            "Volume": 111520,
+            "Usage": "Home",
+            "Length": 40,
+            "SubCategory": "Sofa",
+            "Height": 68,
+            "Product_Image": "https://hnicorpcdn.azureedge.net/furniture-mr/thumbnails/hexa1023.png",
+            "PriceText": "$ 999",
+            "Price": 999,
+            "Area": 2788,
+            "Width": 41,
+            "Name": "Two seater sofa",
+            "Short_Description": "Add that touch of warmth that modern homes need.",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 40,
+                    "Width": 41,
+                    "Height": 68,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/Workspace%20with%20a%20view.usdz",
+            "Src": "https://arasset.azureedge.net/webar/Workspace%20with%20a%20view.glb",
+            "DisplayProductNumber": "1003",
+            "Description": "Although space might be tight, a little creativity and rearranging goes a long way. This desk really maximizes the space with the open leg support that keeps the room feeling open and airy. Add the Matter task chair that combines style and comfort for the perfect finish to the room.",
+            "Model_ID": "WFHSF_3",
+            "Color": "Grey",
+            "ColorCode": {
+                "R": 150,
+                "G": 142,
+                "B": 150
+            },
+            "Volume": 2311848,
+            "Usage": "WHF",
+            "Length": 189,
+            "SubCategory": "Set",
+            "Height": 138,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Workspace%20with%20a%20view.png",
+            "PriceText":"$ 699",
+            "Price": 699,
+            "Area": 26271,
+            "Width": 88,
+            "Name": "Workspace with a view",
+            "Short_Description": "Sleek and smart desk designed to fit in any corner of your room",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 189,
+                    "Width": 88,
+                    "Height": 138,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/HNI_C_AT2_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/HNI_C_AT2_512.glb",
+            "DisplayProductNumber": "hexa1010",
+            "Description": "An essential key to successful teamwork and collaboration is creating a functional office design where people can be accessible to one another. The work area designed for maximum and effective utilization of the space available, without compromising comfort and privacy. Arrange your files and papers neatly inside the drawers that operate smoothly on quality hardware. There’s another pocket to accommodate all the messy wires.",
+            "Model_ID": "_C_AT2",
+            "Color": "Yellow",
+            "ColorCode": {
+                "R": 215,
+                "G": 196,
+                "B": 100
+            },
+            "Volume": 15123420,
+            "Usage": "Office",
+            "Length": 138,
+            "SubCategory": "Cubicle",
+            "Height": 562,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Array%20Cubicle%20Set.png",
+            "PriceText": "$ 1999",
+            "Price": 1999,
+            "Area": 109590,
+            "Width": 195,
+            "Name": "Array Cubicle Set",
+            "Short_Description": "Simple and Comfortable work from home furnitures",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 138,
+                    "Width": 195,
+                    "Height": 562,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/HNI_C_AT3_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/HNI_C_AT3_512.glb",
+            "DisplayProductNumber": "hexa1009",
+            "Description": "Worspace designed for maximum productivity and inspired by modern ergonomics. The sofa in between is compact, cozy gives you ultimate comfort. Beautifully finished, the dual tone desk will complement any decor style. The generous table has room for you to spread out, and the two deep drawers help keep a check on overflowing papers, files, and more. There’s plenty of space below for legs to stretch comfortably",
+            "Model_ID": "_C_AT3",
+            "Color": "Green",
+            "ColorCode": {
+                "R": 165,
+                "G": 176,
+                "B": 150
+            },
+            "Volume": 13400320,
+            "Usage": "Office",
+            "Length": 152,
+            "SubCategory": "Cubicle",
+            "Height": 580,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Cubicle%20Set.png",
+            "PriceText": "$ 1999",
+            "Price": 1999,
+            "Area": 88160,
+            "Width": 152,
+            "Name": "Cubicle Set",
+            "Short_Description": "Add style and functionality to your work from home office furniture space.",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 152,
+                    "Width": 152,
+                    "Height": 580,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/HNI_C_GIM3_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/HNI_C_GIM3_512.glb",
+            "DisplayProductNumber": "hexa1016",
+            "Description": "The users feel connected to their co-workers while still maintaining an element of personal space in an otherwise open environment. Bonus features include personal storage lockers under the desktops and panel supported benches Created for today’s active workplace, active workstyles, and active sitting. It is responsive and supportive of your every move",
+            "Model_ID": "_C_GIM3",
+            "Color": "Blue",
+            "ColorCode": {
+                "R": 49,
+                "G": 85,
+                "B": 122
+            },
+            "Volume": 21410634,
+            "Usage": "Office",
+            "Length": 137,
+            "SubCategory": "Cubicle",
+            "Height": 427,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Cubic%20Medley.png",
+            "PriceText": "$ 1999",
+            "Price": 1999,
+            "Area": 156282,
+            "Width": 366,
+            "Name": "Cubic Medley",
+            "Short_Description": "Tech-savvy and impressively eye-catching",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 137,
+                    "Width": 366,
+                    "Height": 427,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/HNI_CR_HOC_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/HNI_CR_HOC_512.glb",
+            "DisplayProductNumber": "hexa1017",
+            "Description": "These tables are designed to evoke a personal experience and visceral reaction to its detail and materials. The passion for organic materials puts the wood and joinery in focus, concentrating you to how a vertical surface links to a horizontal surface. This airplane section, modern and round, softly transcends, pointing more toward the future than the past.",
+            "Model_ID": "_CR_HOC",
+            "Color": "Black",
+            "ColorCode": {
+                "R": 47,
+                "G": 42,
+                "B": 37
+            },
+            "Volume": 4542060,
+            "Usage": "Office",
+            "Length": 85,
+            "SubCategory": "Table",
+            "Height": 366,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Harmani%20Oval%20Conference.png",
+            "PriceText": "$ 699",
+            "Price": 699,
+            "Area": 53436,
+            "Width": 146,
+            "Name": "Harmani Oval Conference",
+            "Short_Description": "You can never be out of reasons for gathering around your conference table",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 85,
+                    "Width": 146,
+                    "Height": 366,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/HNI_IC_ACB_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/HNI_IC_ACB_512.glb",
+            "DisplayProductNumber": "hexa1012",
+            "Description": "This chair provides great durability and toughness so that you can say goodbye to all your worries while relaxing on the comfortable leatherette cushion upholstery. Designed with sleek curved armrest, this chair will bring a professional tone and convert your working space at home into a professional office setting. Let the hard working days now be filled with sturdiness.",
+            "Model_ID": "_IC_ACB",
+            "Color": "Orange",
+            "ColorCode": {
+                "R": 254,
+                "G": 119,
+                "B": 46
+            },
+            "Volume": 318246,
+            "Usage": "Office",
+            "Length": 93,
+            "SubCategory": "Chair",
+            "Height": 59,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Array%20Conference%20Chair.png",
+            "PriceText": "$ 199",
+            "Price": 199,
+            "Area": 3422,
+            "Width": 58,
+            "Name": "Array Conference Chair",
+            "Short_Description": " A fluid chair is a must for a healthier, happier work spot.",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 93,
+                    "Width": 58,
+                    "Height": 59,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/HNI_IC_AGP3_B_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/HNI_IC_AGP3_B_512.glb",
+            "DisplayProductNumber": "hexa1011",
+            "Description": "With three back materials, synchro-tilt control and an optional adjustable lumbar support, Solve answers the need for a higher level of personalization. The 4-Way Stretch mesh back provides responsive support and a softer fit. The geometric ReActiv back flexes and moves with the user to provide a firmer fit, and an upholstered front can be added to increase support and thermal comfort. Solve helps anyone achieve optimal balance and alignment, making it an ideal solution for everybody.",
+            "Model_ID": "_IC_AGP3",
+            "Color": "White",
+            "ColorCode": {
+                "R": 133,
+                "G": 129,
+                "B": 129
+            },
+            "Volume": 100,
+            "Usage": "Office",
+            "Length": 130,
+            "SubCategory": "Chair",
+            "Height": 73,
+            "Product_Image": "https://arasset.azureedge.net/webar/HNI_IC_AGP3_B-removebg-preview.png",
+            "PriceText": "$ 199",
+            "Price": 199,
+            "Area": 5548,
+            "Width": 76,
+            "Name": "Chair Array Black",
+            "Short_Description": "Complete multitask chairs offering effortless mobility",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 130,
+                    "Width": 76,
+                    "Height": 73,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/HNI_L_CB_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/HNI_L_CB_512.glb",
+            "DisplayProductNumber": "hexa1013",
+            "Description": "A wonderful lounger offers a fine resting experience. If you’re looking for the finer things in life, here’s a product that will surely catch your fancy.The bonded leather upholstery and foam cushions allow the lounger to offer an amazing amount of comfort. ",
+            "Model_ID": "_L_CB",
+            "Color": "Yellow",
+            "ColorCode": {
+                "R": 223,
+                "G": 187,
+                "B": 41
+            },
+            "Volume": 368954305,
+            "Usage": "Office",
+            "Length": 271,
+            "SubCategory": "Lounge",
+            "Height": 1385,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Collaborative%20Furniture.png",
+            "PriceText": "$ 1999",
+            "Price": 1999,
+            "Area": 1361455,
+            "Width": 983,
+            "Name": " Collaborative Furniture",
+            "Short_Description": "Office furniture that encourages workforce collaboration",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 271,
+                    "Width": 983,
+                    "Height": 1385,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/HNI_L_MH2_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/HNI_L_MH2_512.glb",
+            "DisplayProductNumber": "hexa1014",
+            "Description": "For every tablet, coffee mug, or notepad, there's a need for an occasional table. Don't scramble to find an open meeting room when you can move the tables you need around a lounge space. The cross-bar design provides a mid-century aesthetic which fits perfectly with any lounge setting to bring people together effortlessly.",
+            "Model_ID": "_L_MH2",
+            "Color": "Grey",
+            "ColorCode": {
+                "R": 64,
+                "G": 63,
+                "B": 61
+            },
+            "Volume": 286272000,
+            "Usage": "Office",
+            "Length": 355,
+            "SubCategory": "Large Seater",
+            "Height": 900,
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Miter%20Round%20Side%20Table%20with%20Lounge%20set.png",
+            "PriceText": "$ 699",
+            "Price": 699,
+            "Area": 806400,
+            "Width": 896,
+            "Name": "Miter Round Side Table with Lounge set",
+            "Short_Description": "Unique, captivating and fashioned out of fine-quality",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 355,
+                    "Width": 896,
+                    "Height": 900,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/Monaca%20Sofa_1.usdz",
+            "Src": "https://arasset.azureedge.net/webar/Monaca%20Sofa_1.glb",
+            "DisplayProductNumber": "hexa1025",
+            "Description": "Be it the attractive color of the piece or even the comfortable seating ergonomics, we've got them sorted with our lounger sofa. Generous proportions to stretch, lean back, or sneak in a nap, you can do it all. Bring a sense of comfort and cohesion to your favorite seating space with this sofa.",
+            "Model_ID": "Sofa_AT_1_02",
+            "Color": "White",
+            "ColorCode": {
+                "R": 193,
+                "G": 180,
+                "B": 164
+            },
+            "Volume": 528138,
+            "Usage": "Home",
+            "Length": 99,
+            "SubCategory": "Sofa",
+            "Height": 233,
+            "Product_Image": "https://arasset.azureedge.net/webar/Monaca%20Sofa_1.png",
+            "PriceText": "$ 999",
+            "Price": 999,
+            "Area": 233,
+            "Width": 78,
+            "Name": "Three seater sofa",
+            "Short_Description": "Sofa set brings impeccable aesthetics and design value to your interiors",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 99,
+                    "Width": 78,
+                    "Height": 233,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/Night%20Lamp_1.usdz",
+            "Src": "https://arasset.azureedge.net/webar/Night%20Lamp_1.glb",
+            "DisplayProductNumber": "hexa1021",
+            "Description": "Modify brightness and match the ambience with colors. The soft and cozy material of it presents a beautiful simple look and transforms the room into a cozy and relaxed enviornment. Illuminate your room effectively with this Stylish and Elegant Lamp Customary because every room deserves one.",
+            "Model_ID": "Table_Lamp_AT_2",
+            "Color": "Black",
+            "ColorCode": {
+                "R": 37,
+                "G": 38,
+                "B": 43
+            },
+            "Volume": 29520,
+            "Usage": "Home",
+            "Length": 30,
+            "SubCategory": "Lamp",
+            "Height": 24,
+            "Product_Image": "https://arasset.azureedge.net/webar/Night%20Lamp_1.png",
+            "PriceText": "$ 299",
+            "Price": 299,
+            "Area": 0,
+            "Width": 41,
+            "Name": "Dark Lamp",
+            "Short_Description": "Unique simple tap design dark lamp",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 30,
+                    "Width": 41,
+                    "Height": 24,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/Table%20Lamp_1.usdz",
+            "Src": "https://arasset.azureedge.net/webar/Table%20Lamp_1.glb",
+            "DisplayProductNumber": "hexa1020",
+            "Description": "A lovely, inexpensive, and practical table lamp to meet your basic fashion lighting needs. Furnish your home and  light up your desk. As a side table lamp, it is perfect for your bedroom or kid room, matching with any décor, it may help to decorate uour home and make it modernised.",
+            "Model_ID": "Table_Lamp_AT_1",
+            "Color": "White",
+            "ColorCode": {
+                "R": 227,
+                "G": 227,
+                "B": 229
+            },
+            "Volume": 30015,
+            "Usage": "Home",
+            "Length": 29,
+            "SubCategory": "Lamp",
+            "Height": 23,
+            "Product_Image": "https://arasset.azureedge.net/webar/Table%20Lamp_1.png",
+            "PriceText": "$ 299",
+            "Price": 299,
+            "Area": 1035,
+            "Width": 45,
+            "Name": "White Lamp",
+            "Short_Description": "Design which are influenced by architectural concept",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 29,
+                    "Width": 45,
+                    "Height": 23,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/Wall%20Rack_1.usdz",
+            "Src": "https://arasset.azureedge.net/webar/Wall%20Rack_1.glb",
+            "DisplayProductNumber": "hexa1024",
+            "Description": "Match your rack with your ambience. It is not only a storage solution to your house, but also a pretty display in your house. You can store your books, show-piece items by keeping them well organised yet easy to access.",
+            "Model_ID": "Wooden_Rack_AT",
+            "Color": "Grey",
+            "ColorCode": {
+                "R": 164,
+                "G": 155,
+                "B": 138
+            },
+            "Volume": 284130,
+            "Usage": "Home",
+            "Length": 154,
+            "SubCategory": "Rack",
+            "Height": 45,
+            "Product_Image": "https://arasset.azureedge.net/webar/Wall%20Rack_1.png",
+            "PriceText": "$ 249",
+            "Price": 249,
+            "Area": 1845,
+            "Width": 41,
+            "Name": "Show piece Rack",
+            "Short_Description": "Modern furniture lives at the intersection of clean lines and relaxed comfort",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 154,
+                    "Width": 41,
+                    "Height": 45,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/Wooden%20Stool_1.usdz",
+            "Src": "https://arasset.azureedge.net/webar/Wooden%20Stool_1.glb",
+            "DisplayProductNumber": "hexa1019",
+            "Description": "Cozy and efficient tea table in a low budget. A polished finish coffee/ tea table adds an elegant touch to your living room décor. The secondary material is hard wooden columns. It is rich in quality and hence long lasting.",
+            "Model_ID": "Teapoy_AT_1",
+            "Color": "Brown",
+            "ColorCode": {
+                "R": 209,
+                "G": 138,
+                "B": 106
+            },
+            "Volume": 154800,
+            "Usage": "Home",
+            "Length": 60,
+            "SubCategory": "Table",
+            "Height": 43,
+            "Product_Image": "https://arasset.azureedge.net/webar/Wooden%20Stool_1.png",
+            "PriceText": "$ 499",
+            "Price": 499,
+            "Area": 2580,
+            "Width": 60,
+            "Name": "Teapoy",
+            "Short_Description": "classic amalgamation of form and function",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 60,
+                    "Width": 60,
+                    "Height": 43,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/SEYCHR_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/SEYCHR_512.glb",
+            "DisplayProductNumber": "hexa1030",
+            "Description": "The Seymour Chair offers incredible flexibility - with design options including swivel or fixed base, and three different back heights including a low, mid and high back for extra head support. A luxurious way to relax at home.",
+            "Model_ID": "SEYCHR",
+            "Color": "Brown",
+            "ColorCode": {
+                "R": 37,
+                "G": 37,
+                "B": 37
+            },
+            "Volume": 845240000,
+            "Usage": "Office",
+            "Length": 850,
+            "SubCategory": "Chair",
+            "Height": 1130,
+            "Product_Image": "https://hnicorpcdn.azureedge.net/furniture-mr/thumbnails/hexa1040.png",
+            "PriceText": "$ 199",
+            "Price": 199,
+            "Area": 748000,
+            "Width": 880,
+            "Name": "Seymour Chair",
+            "Short_Description": "The Seymour chair is available in a range of back heights so you can customise ",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 850,
+                    "Width": 880,
+                    "Height": 1130,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/KLQIDT_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/KLQIDT_512.glb",
+            "DisplayProductNumber": "hexa1031",
+            "Description": "Quay's slender legs and gentle curves will bring a luxurious elegance to any dining room. Complemented by Quay dining chairs available in a wide range of premium fabrics and leathers.",
+            "Model_ID": "KLQIDT",
+            "Color": "Grey",
+            "ColorCode": {
+                "R": 81,
+                "G": 76,
+                "B": 72
+            },
+            "Volume": 1368000000,
+            "Usage": "Office",
+            "Length": 1000,
+            "SubCategory": "Table",
+            "Height": 760,
+            "Product_Image": "https://hnicorpcdn.azureedge.net/furniture-mr/thumbnails/hexa1031.png",
+            "PriceText": "$ 499",
+            "Price": 499,
+            "Area": 748000,
+            "Width": 1800,
+            "Name": "Quay Indoor Dining Table",
+            "Short_Description": "Quay's slender legs and gentle curves will bring a luxurious elegance to any dining room",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 1000,
+                    "Width": 1800,
+                    "Height": 760,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/KLSAFL.usdz",
+            "Src": "https://arasset.azureedge.net/webar/KLSAFL_512.glb",
+            "DisplayProductNumber": "hexa1032",
+            "Description": "Create the perfect ambience with a sophisticated collection of lamps and pendant lights.",
+            "Model_ID": "KLSAFL",
+            "Color": "Black",
+            "ColorCode": {
+                "R": 24,
+                "G": 24,
+                "B": 26
+            },
+            "Volume": 34614000,
+            "Usage": "Office",
+            "Length": 100,
+            "SubCategory": "Lamp",
+            "Height": 1923,
+            "Product_Image": "https://hnicorpcdn.azureedge.net/furniture-mr/thumbnails/hexa1032.png",
+            "PriceText": "$ 299",
+            "Price": 299,
+            "Area": 18000,
+            "Width": 180,
+            "Name": "Solifiore Arum Floor Lamp",
+            "Short_Description": "Customise your space with our range of lightning products",
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 100,
+                    "Width": 180,
+                    "Height": 1923,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/KLSGFL_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/KLSGFL_512.glb",
+            "Name": "Solifiore Gymea Floor Lamp",
+            "Model_ID": "KLSGFL",
+            "SubCategory": "Lamp",
+            "DisplayProductNumber": "hexa1033",
+            "Usage": "Office ",
+            "Product_Image": "https://hnicorpcdn.azureedge.net/furniture-mr/thumbnails/hexa1033.png",
+            "PriceText": "$ 299",
+            "Price": 299,
+            "Description": "Create the perfect ambience with a sophisticated collection of lamps and pendant lights.",
+            "Short_Description": "Customise your space with our range of lightning products",
+            "Color": "Black",
+            "Volume ": "31000",
+            "Area": "55645000",
+            "Length": 100,
+            "Width": 310,
+            "Height": 1795,
+            "ColorCode": {
+                "R": 28,
+                "G": 28,
+                "B": 30
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 100,
+                    "Width": 310,
+                    "Height": 1795,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/BETRLS_1_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/BETRLS_1_512.glb",
+            "Name": "Betrillo Loveseat",
+            "Model_ID": "BETRLS",
+            "SubCategory": "Sofa",
+            "DisplayProductNumber": "hexa1034",
+            "Usage": "Office ",
+            "Product_Image": "https://hnicorpcdn.azureedge.net/furniture-mr/thumbnails/hexa1034.png",
+            "PriceText": "$ 999",
+            "Price": 999,
+            "Description": "Great design draws inspiration from various places, and the Betrillo loveseat is no exception. Diamond-stitched pattern seen in high-end handbags and luxury car interiors is simply irresistible on this sumptuous, generously padded seating experience",
+            "Short_Description": "Durable, easy-care leather alternative delivers the look you crave at a PriceText that’s decidedly easy on your purse.",
+            "Color": "Black",
+            "Volume ": "1683000",
+            "Area": "1565190000",
+            "Length": 990,
+            "Width": 1700,
+            "Height": 930,
+            "ColorCode": {
+                "R": 39,
+                "G": 38,
+                "B": 36
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 990,
+                    "Width": 1700,
+                    "Height": 930,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/ISCSTL_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/ISCSTL_512.glb",
+            "Name": "Issho Coffee & Side Table",
+            "Model_ID": "ISCSTL",
+            "SubCategory": "Table",
+            "DisplayProductNumber": "hexa1035",
+            "Usage": "Office ",
+            "Product_Image": "https://hnicorpcdn.azureedge.net/furniture-mr/thumbnails/hexa1035.png",
+            "PriceText": "$ 499",
+            "Price": 499,
+            "Description": "Inspired by organic forms and architectural lines, Issho celebrates an elegance of craftmanship and subtle detailing. The table is presented in a series of repeated ‘fins’ that forms a sculptural base both distinctively beautiful and functional.",
+            "Short_Description": "Featuring asymmetric pebble shaped tops to bring a calming and meditative poise to living spaces.",
+            "Color": "Brown",
+            "Volume ": "92977500",
+            "Area": "122500",
+            "Length": 350,
+            "Width": 350,
+            "Height": 759,
+            "ColorCode": {
+                "R": 87,
+                "G": 87,
+                "B": 87
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 350,
+                    "Width": 350,
+                    "Height": 759,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/MOCOTL_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/MOCOTL_512.glb",
+            "Name": "Monument Coffee Table",
+            "Model_ID": "MOCOTL",
+            "SubCategory": "Table",
+            "DisplayProductNumber": "hexa1036",
+            "Usage": "Office ",
+            "Product_Image": "https://hnicorpcdn.azureedge.net/furniture-mr/thumbnails/hexa1036.png",
+            "PriceText": "$ 499",
+            "Price": 499,
+            "Description": "Timeless and sculptural, Monument showcases materiality in its bold yet simple form. Crafted from premium porcelain ceramic, it’s the perfect occasional table for both the indoors and outdoors.",
+            "Short_Description": "The low and square variants are ideal as coffee tables, whilst the tall is perfect as a bedside or side table.",
+            "Color": "Grey",
+            "Volume ": "76532000",
+            "Area": "201400",
+            "Length": 530,
+            "Width": 380,
+            "Height": 380,
+            "ColorCode": {
+                "R": 102,
+                "G": 102,
+                "B": 102
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 530,
+                    "Width": 380,
+                    "Height": 380,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/KLASDO_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/KLASDO_512.glb",
+            "Name": "Aspen Sideboard 2 Door 1 Drawer",
+            "Model_ID": "KLASDD",
+            "SubCategory": "Rack",
+            "DisplayProductNumber": "hexa1037",
+            "Usage": "Office ",
+            "Product_Image": "https://hnicorpcdn.azureedge.net/furniture-mr/thumbnails/hexa1037.png",
+            "PriceText": "$ 499",
+            "Price": 499,
+            "Description": "The Aspen Sideboard offers a beautiful, classic aesthetic that will work harmoniously in your home. Aspen Sideboard seamlessly blends style and practicality with a clever soft-close drawer to keep your space clutter free.",
+            "Short_Description": "Crafted from high quality solid and sustainably sourced American Walnut Timber",
+            "Color": "Brown",
+            "Volume ": "610560000",
+            "Area": "1272000",
+            "Length": 636,
+            "Width": 2000,
+            "Height": 480,
+            "ColorCode": {
+                "R": 80,
+                "G": 48,
+                "B": 33
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 636,
+                    "Width": 2000,
+                    "Height": 480,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/MACLST_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/MACLST_512.glb",
+            "Name": "Macleary Loveseat",
+            "Model_ID": "MACLST",
+            "SubCategory": "Sofa",
+            "DisplayProductNumber": "hexa1038",
+            "Usage": "Office ",
+            "Product_Image": "https://hnicorpcdn.azureedge.net/furniture-mr/thumbnails/hexa1038.png",
+            "PriceText": "$ 499",
+            "Price": 499,
+            "Description": "Get comfortable with a modern aesthetic when you add the Macleary loveseat to your home or office. A clean, linear design fits so well into any sophisticated space. With velvet upholstery and a sleek metal accent leg, this piece elevates your decor to up-to-the-minute cool.",
+            "Short_Description": "High-resiliency foam cushions wrapped in thick poly fiber",
+            "Color": "Green",
+            "Volume ": "1087212000",
+            "Area": "1264200",
+            "Length": 860,
+            "Width": 1470,
+            "Height": 860,
+            "ColorCode": {
+                "R": 95,
+                "G": 105,
+                "B": 70
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 860,
+                    "Width": 1470,
+                    "Height": 860,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/DALIBC_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/DALIBC_512.glb",
+            "Name": "Dainelli Libreria Bookcase",
+            "Model_ID": "DALIBC",
+            "SubCategory": "Rack",
+            "DisplayProductNumber": "hexa1039",
+            "Usage": "Office ",
+            "Product_Image": "https://hnicorpcdn.azureedge.net/furniture-mr/thumbnails/hexa1039.png",
+            "PriceText": "$ 299",
+            "Price": 299,
+            "Description": "Match your rack with your ambience. It is not only a storage solution to your house, but also a pretty display in your house. You can store your books, show-piece items by keeping them well organised yet easy to access.",
+            "Short_Description": "Modern furniture lives at the intersection of clean lines and relaxed comfort",
+            "Color": "Brown",
+            "Volume ": "1060000000",
+            "Area": "530000",
+            "Length": 500,
+            "Width": 1060,
+            "Height": 2000,
+            "ColorCode": {
+                "R": 2,
+                "G": 2,
+                "B": 2
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 500,
+                    "Width": 1060,
+                    "Height": 2000,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/KINGBLD_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/KINGBLD_512.glb",
+            "Name": "Queen boulevard",
+            "Model_ID": "KNGBLD",
+            "SubCategory": "Chair",
+            "DisplayProductNumber": "hexa1040",
+            "Usage": "Office ",
+            "Product_Image": "https://hnicorpcdn.azureedge.net/furniture-mr/thumbnails/hexa1030.png",
+            "PriceText": "$ 199",
+            "Price": 199,
+            "Description": "With a contemporary curve design, Queen Boulevard Chair opens to the room and invites everyone to enjoy exceptional lounging comfort. This large and luxurious armchair and a more compact version with angled edges and curves can be customised to perfectly fit the needs of the room, whether in the bedroom or living room.",
+            "Short_Description": "The contemporary curve design of the Queen Boulevard Chair complements any living space",
+            "Color": "Grey",
+            "Volume ": "504300000",
+            "Area": "672400",
+            "Length": 820,
+            "Width": 820,
+            "Height": 750,
+            "ColorCode": {
+                "R": 30,
+                "G": 30,
+                "B": 30
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 820,
+                    "Width": 820,
+                    "Height": 750,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/HNI_F_MSG_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/HNI_F_MSG_512.glb",
+            "Name": "Outdoor Fireplace",
+            "Model_ID": "_F_MSG",
+            "SubCategory": "Hearth",
+            "DisplayProductNumber": "hexa1069",
+            "Usage": "Home",
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Outdoor%20Fireplace.png",
+            "PriceText": "$ 499",
+            "Price": 499,
+            "Description": "It consists of flaming effects, use of heating operation is not mandatory,  it can be used as a decorative product with flaming effect. It is all weather product.",
+            "Short_Description": "All you need is a good sweater and snuggle up with your loved ones by the fire",
+            "Color": "Brown",
+            "Volume ": "879010",
+            "Area": "7205",
+            "Length": 131,
+            "Width": 55,
+            "Height": 122,
+            "ColorCode": {
+                "R": 153,
+                "G": 132,
+                "B": 113
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 131,
+                    "Width": 55,
+                    "Height": 122,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/HNI_F_FFO_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/HNI_F_FFO_512.glb",
+            "Name": "Beautiful Traditional Gas Fireplace",
+            "Model_ID": "_F_FFO",
+            "SubCategory": "Hearth",
+            "DisplayProductNumber": "hexa1071",
+            "Usage": "Home",
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Beautiful%20Traditional%20Gas%20Fireplace.png",
+            "PriceText": "$ 499",
+            "Price": 499,
+            "Description": "Choose the traditional Majestic fireplace that's just right for your home's style. Each Majestic fireplace is engineered for performance, style and lasting reliability. All of our products are designed by hearth experts utilizing strict engineering ",
+            "Short_Description": "There are no sparks, open flames, or toxic fumes to worry",
+            "Color": "Grey",
+            "Volume ": "5776000",
+            "Area": "19000",
+            "Length": 79,
+            "Width": 250,
+            "Height": 304,
+            "ColorCode": {
+                "R": 174,
+                "G": 129,
+                "B": 121
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 79,
+                    "Width": 250,
+                    "Height": 304,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/HNI_F_DWBS_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/HNI_F_DWBS_512.glb",
+            "Name": "Defiant Wood Burning Hearth",
+            "Model_ID": "_F_DWBS",
+            "SubCategory": "Hearth",
+            "DisplayProductNumber": "hexa1073",
+            "Usage": "Home",
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Defiant%20Wood%20Burning%20Stove.png",
+            "PriceText": "$ 499",
+            "Price": 499,
+            "Description": "The Defiant provides more than heat: it’s a skillfully crafted, timeless piece of American history.  In fact, the last original Defiant Parlor Stove is located in the Smithsonian’s National History collection.  Named over 40 years ago to “defy the wintery blast,” today’s Defiant does that and more",
+            "Short_Description": "Minimizing effort and keeping smoke and embers contained",
+            "Color": "Red",
+            "Volume ": "528138",
+            "Area": "6660",
+            "Length": 60,
+            "Width": 111,
+            "Height": 79,
+            "ColorCode": {
+                "R": 148,
+                "G": 64,
+                "B": 66
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 60,
+                    "Width": 111,
+                    "Height": 79,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/HNI_F_STRD_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/HNI_F_STRD_512.glb",
+            "Name": " Direct Vent gas Hearth",
+            "Model_ID": "_F_STRD",
+            "SubCategory": "Hearth",
+            "DisplayProductNumber": "hexa1075",
+            "Usage": "Home",
+            "Product_Image": "https://tulanedigcontent.blob.core.windows.net/ms-incubation-2021/thumbnails/Direct%20Vent%20Gas%20Stove.png",
+            "PriceText": "$ 499",
+            "Price": 499,
+            "Description": "Beauty meets versatility. Defined by thoughtful design, cast iron styling and authentic embers, the Vermont Castings Direct Vent gas stoves achieve a timeless look. Multiple finish and control options create the stove that’s right for your home.",
+            "Short_Description": "Traditional European-styling to blend seamlessly into its surroundings",
+            "Color": "Black",
+            "Volume ": "184960",
+            "Area": "2720",
+            "Length": 40,
+            "Width": 68,
+            "Height": 68,
+            "ColorCode": {
+                "R": 37,
+                "G": 40,
+                "B": 45
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 40,
+                    "Width": 68,
+                    "Height": 68,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/KLKCD3_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/KLKCD3_512.glb",
+            "Name": "King Cloud III",
+            "Model_ID": "KLKCD3",
+            "SubCategory": "Sofa",
+            "DisplayProductNumber": "hexa1100",
+            "Usage": "Home",
+            "Product_Image": "https://arasset.azureedge.net/webar/KLKCD3.png",
+            "PriceText": "$ 999",
+            "Price": 999,
+            "Description": "The world’s most advanced modular recliner with TouchGlide control technology that memorises your preferred seating position. Smart Pocket allow you to integrate smart accessories for truly personalised comfort.",
+            "Short_Description": "Three recliner modules with two wide arms and Smart Pockets™. Customise in your choice of premium fabric or European leather.",
+            "Color": "Grey",
+            "Volume ": "2354352",
+            "Area": "30576",
+            "Length": 294,
+            "Width": 104,
+            "Height": 77,
+            "ColorCode": {
+                "R": 120,
+                "G": 106,
+                "B": 106
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 294,
+                    "Width": 104,
+                    "Height": 77,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/KLTUCD_512.usdz",
+            "Src": "https://arasset.azureedge.net/webar/KLTUCD_512.glb",
+            "Name": "Jasper Bed",
+            "Model_ID": "KLTUCD",
+            "SubCategory": "Bed",
+            "DisplayProductNumber": "hexa1101",
+            "Usage": "Home",
+            "Product_Image": "https://arasset.azureedge.net/webar/KLTUCD.png",
+            "PriceText": "$ 599",
+            "Price": 599,
+            "Description": "The ultimate expression of luxury and simplicity, the iconic Jasper has now made its way into the bedroom. Discover a contemporary combination of thoughtful Australian design, blended with a unique sleek grandeur.",
+            "Short_Description": "The ultimate expression of luxury and simplicity.",
+            "Color": "Grey",
+            "Volume ": "5859093",
+            "Area": "63001",
+            "Length": 251,
+            "Width": 251,
+            "Height": 93,
+            "ColorCode": {
+                "R": 92,
+                "G": 83,
+                "B": 82
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 251,
+                    "Width": 251,
+                    "Height": 93,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/aplsch.usdz",
+            "Src": "https://arasset.azureedge.net/webar/APLSCH.glb",
+            "Name": "Luxembourg",
+            "Model_ID": "APLSCH",
+            "SubCategory": "Sofa",
+            "DisplayProductNumber": "hexa1102",
+            "Usage": "Home",
+            "Product_Image": "https://arasset.azureedge.net/webar/APLSCH.png",
+            "PriceText": "$ 999",
+            "Price": 999,
+            "Description": "A rather fine design with a universal appeal and a good sense of taste, one for a lifetime.",
+            "Short_Description": "A rather fine design with a universal appeal",
+            "Color": "Cream",
+            "Volume ": "1748851.2",
+            "Area": "23256",
+            "Length": 228,
+            "Width": 102,
+            "Height": 75,
+            "ColorCode": {
+                "R": 158,
+                "G": 149,
+                "B": 142
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 228,
+                    "Width": 102,
+                    "Height": 75,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/apfloc.usdz",
+            "Src": "https://arasset.azureedge.net/webar/APFLOC.glb",
+            "Name": "Florence",
+            "Model_ID": "APFLOC",
+            "SubCategory": "Sofa",
+            "DisplayProductNumber": "hexa1103",
+            "Usage": "Home",
+            "Product_Image": "https://arasset.azureedge.net/webar/APFLOC.png",
+            "PriceText": "$ 999",
+            "Price": 999,
+            "Description": "The tasteful design of this sofa is deeply influenced by the artsy city of Florence; speaks of nothing but elegance!",
+            "Short_Description": "Speaks of nothing but elegance!",
+            "Color": "Blue",
+            "Volume ": "1526259.456",
+            "Area": "18213.12",
+            "Length": 210,
+            "Width": 86,
+            "Height": 83,
+            "ColorCode": {
+                "R": 107,
+                "G": 147,
+                "B": 166
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 210,
+                    "Width": 86,
+                    "Height": 83,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/apastpi.usdz",
+            "Src": "https://arasset.azureedge.net/webar/APASTPI.glb",
+            "Name": "Ardour",
+            "Model_ID": "APASTPI",
+            "SubCategory": "Lamp",
+            "DisplayProductNumber": "hexa1104",
+            "Usage": "Home",
+            "Product_Image": "https://arasset.azureedge.net/webar/APASTPI.png",
+            "PriceText": "$ 299",
+            "Price": 299,
+            "Description": "A harmony of the old and new, the Ardour Chandelier pairs the time-loved crystal with new-age chrome and clever embellishments. This voguish design adds a hint of drama without overwhelming the space.",
+            "Short_Description": "Ardour Chandelier pairs the time-loved crystal with new-age chrome and clever embellishments.",
+            "Color": "Golden",
+            "Volume ": "323640",
+            "Area": "3720",
+            "Length": 60,
+            "Width": 62,
+            "Height": 87,
+            "ColorCode": {
+                "R": 147,
+                "G": 120,
+                "B": 80
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 60,
+                    "Width": 62,
+                    "Height": 87,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/apardr.usdz",
+            "Src": "https://arasset.azureedge.net/webar/APARDR.glb",
+            "Name": "Astrapia",
+            "Model_ID": "APARDR",
+            "SubCategory": "Lamp",
+            "DisplayProductNumber": "hexa1105",
+            "Usage": "Home",
+            "Product_Image": "https://arasset.azureedge.net/webar/APARDR.png",
+            "PriceText": "$ 299",
+            "Price": 299,
+            "Description": "Enfolding a space with a gilded glow, the Astrapia Chandelier exudes warmth and a vintage style. Centralizing on crystal and glass, this shimmering beauty speaks of vibrancy through alluring charm.",
+            "Short_Description": "Enfolding a space with a gilded glow.",
+            "Color": "White",
+            "Volume ": "1120000",
+            "Area": "10000",
+            "Length": 100,
+            "Width": 100,
+            "Height": 112,
+            "ColorCode": {
+                "R": 255,
+                "G": 255,
+                "B": 35
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 100,
+                    "Width": 100,
+                    "Height": 112,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/phelr1.usdz",
+            "Src": "https://arasset.azureedge.net/webar/PHELR1.glb",
+            "Name": "Pavilion House",
+            "Model_ID": "PHELR1",
+            "SubCategory": "Living Room",
+            "DisplayProductNumber": "hexa6",
+            "Usage": "Home",
+            "Product_Image": "https://arasset.azureedge.net/webar/PHELR1.png",
+            "PriceText": "$ 299",
+            "Price": 299,
+            "Description": "Giving your Home a new Style Every Style.",
+            "Short_Description": "Good design for good moments.",
+            "Color": "Creme",
+            "Volume ": "1120000",
+            "Area": "10000",
+            "Length": 100,
+            "Width": 100,
+            "Height": 112,
+            "ColorCode": {
+                "R": 196,
+                "G": 170,
+                "B": 132
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 100,
+                    "Width": 100,
+                    "Height": 112,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "",
+            "Src": "",
+            "Name": "Harrods Court",
+            "Model_ID": "HCELR2",
+            "SubCategory": "Living Room",
+            "DisplayProductNumber": "hexa7",
+            "Usage": "Home",
+            "Product_Image": "https://arasset.azureedge.net/webar/HCELR2.png",
+            "PriceText": "$ 299999",
+            "Price": 299999,
+            "Description": "You spend a lot of time in your living room, so it not only needs to look great, but it also needs to be functional and comfortable. Mastering this trifecta can be a design challenge for sure, but we've rounded up the best living room examples to inspire your own decorating projects.",
+            "Short_Description": "Art of living stylishly.",
+            "Color": "White",
+            "Volume ": "1120000",
+            "Area": "10000",
+            "Length": 890,
+            "Width": 695,
+            "Height": 270,
+            "ColorCode": {
+                "R": 253,
+                "G": 225,
+                "B": 178
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 890,
+                    "Width": 695,
+                    "Height": 270,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "",
+            "Src": "",
+            "Name": "L shaped sofa",
+            "Model_ID": "LSOFA",
+            "SubCategory": "Sofa",
+            "DisplayProductNumber": "hexa8",
+            "Usage": "Home",
+            "Product_Image": "https://arasset.azureedge.net/webar/LSOFA.png",
+            "PriceText": "$ 1999",
+            "Price": 1999,
+            "Description": "Welcome your guests into your home with pride. This sofa is the ultimate statement sofa, made for royal treatment.The wood used in the furniture is perfectly seasoned for optimum moisture content, to reduce the possibility of seasonal expansion or contraction of the products. Durable for long term use and held up by Strong legs that last a lifetime.",
+            "Short_Description": "Design with distinction",
+            "Color": "White",
+            "Volume ": "1120000",
+            "Area": "10000",
+            "Length": 400,
+            "Width": 350,
+            "Height": 130,
+            "ColorCode": {
+                "R": 162,
+                "G": 151,
+                "B": 137
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 250,
+                    "Width": 150,
+                    "Height": 130,
+                    "Section": "right"
+                },
+                {
+                    "Length": 350,
+                    "Width": 150,
+                    "Height": 130,
+                    "Section": "left"
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/APATVU.usdz",
+            "Src": "https://arasset.azureedge.net/webar/APATVU.glb",
+            "Name": "Alicia TV Unit",
+            "Model_ID": "APATVU",
+            "SubCategory": "Table",
+            "DisplayProductNumber": "hexa88",
+            "Usage": "Home",
+            "Product_Image": "https://arasset.azureedge.net/webar/APATVU.png",
+            "PriceText": "$ 299",
+            "Price": 299,
+            "Description": "Adorn your living room with Alicia, a TV unit so suave that it speaks of nothing but pure elegance!",
+            "Short_Description": "Create. Update. Renovate.",
+            "Color": "Brown",
+            "Volume ": "1120000",
+            "Area": "10000",
+            "Length": 1450,
+            "Width": 400,
+            "Height": 400,
+            "ColorCode": {
+                "R": 55,
+                "G": 51,
+                "B": 50
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 1450,
+                    "Width": 400,
+                    "Height": 400,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/ASRWS.usdz",
+            "Src": "https://arasset.azureedge.net/webar/ASRWS.glb",
+            "Name": "Chair Sets",
+            "Model_ID": "ASRWS",
+            "SubCategory": "Chair",
+            "DisplayProductNumber": "hexa98",
+            "Usage": "Home",
+            "Product_Image": "https://arasset.azureedge.net/webar/ASRWS.png",
+            "PriceText": "$ 799",
+            "Price": 799,
+            "Description": "Your table’s best friend and your favourite working companion",
+            "Short_Description": "Anything but ordinary",
+            "Color": "Gray",
+            "Volume ": "1120000",
+            "Area": "10000",
+            "Length": 1450,
+            "Width": 400,
+            "Height": 400,
+            "ColorCode": {
+                "R": 105,
+                "G": 107,
+                "B": 106
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 1450,
+                    "Width": 400,
+                    "Height": 400,
+                    "Section": null
+                }
+            ] 
+        },
+        {
+            "IosSrc": "https://arasset.azureedge.net/webar/LSOFA.usdz",
+            "Src": "https://arasset.azureedge.net/webar/LSOFA.glb",
+            "Name": "Modular L shaped sofa",
+            "Model_ID": "LModularSOFA",
+            "SubCategory": "Sofa",
+            "DisplayProductNumber": "hexa85",
+            "Usage": "Home",
+            "Product_Image": "https://arasset.azureedge.net/webar/ModularLSOFA.png",
+            "PriceText": "$ 899",
+            "Price": 899,
+            "Description": "Reflecting designs that are sleek, trendy and functional. This sofa is the ultimate statement sofa, made for royal treatment.The wood used in the furniture is perfectly seasoned for optimum moisture content, to reduce the possibility of seasonal expansion or contraction of the products. Durable for long term use and held up by Strong legs that last a lifetime.",
+            "Short_Description": "Sit with luxury",
+            "Color": "Brown",
+            "Volume ": "1120000",
+            "Area": "10000",
+            "Length": 400,
+            "Width": 350,
+            "Height": 130,
+            "ColorCode": {
+                "R": 107,
+                "G": 45,
+                "B": 33
+            },
+            "variants": [],
+            "dimensions": [
+                {
+                    "Length": 350,
+                    "Width": 160,
+                    "Height": 63,
+                    "Section": "right"
+                },
+                {
+                    "Length": 373,
+                    "Width": 94,
+                    "Height": 63,
+                    "Section": "left"
+                }
+            ] 
+        }
+    ]
+}

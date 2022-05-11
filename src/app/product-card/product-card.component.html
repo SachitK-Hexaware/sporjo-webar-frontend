@@ -1,0 +1,51 @@
+<!-- <div class="product-card">
+  <div class="product-card__image" routerLink="/product/{{industry}}/{{_id}}">
+    <img src="{{ product_image_url }}" alt=""  />
+  </div>
+  <div class="product-card__info">
+    <header>
+      <div class="title">
+        <div class="product-name">{{ name }}</div>
+        <div class="product-short-desc">{{ short_description }}</div>
+      </div>
+      <div class="product-price">{{ price | currency: "USD" }}</div>
+    </header>
+  </div> -->
+  <!-- <div class="product-card__cta">
+    <button
+      nz-button
+      [disabled]="quantity === 0"
+      (click)="
+        onAdd({
+          id: id,
+          price: price,
+          image: image,
+          title: title,
+          maxQuantity: quantity
+        })
+      "
+    >
+      {{ quantity === 0 ? "Out of stock" : "Add to cart" }}
+    </button>
+  </div> -->
+<!-- </div> -->
+
+
+
+    <!-- <div class="col-lg-4 col-xl-3 col-md-6 col-sm-6 col-xs-6" data-aos="fade-up" data-aos-delay="200"> -->
+    <div class="mb-5 product single-product" style="margin-bottom: 15px !important;">
+      <a routerLink="/product/{{industry}}/{{_id}}">
+        <div style="position: relative; overflow: hidden;background-color: rgb(238, 238, 238);">
+          <img class="c" width="200px" src={{product_image_url}}
+            style="display: block; margin-left: auto; margin-right: auto;grid-column: 9 / 13;grid-row: 1 / 7;">
+        </div>	
+        <div class="part-2 mt-3">
+          <h3 class="product-title" style="font-size: 20px; margin-bottom: 5px !important; font-weight: bold;">{{name}}</h3>
+        </div>	
+      </a>
+      <div class="part-2 mt-3" style="margin-top: 8px !important; ">
+        <p style="line-height: 1.2; margin-bottom: 8px !important; ">{{short_description}}</p>
+        <h4 class="product-price" style="font-size: 20px; font-weight: bold;">{{price | currency: "USD"}}</h4>
+      </div>
+      
+    </div>
