@@ -175,6 +175,7 @@ export class HomeComponent implements OnInit {
             this.industry = res.industry
         }
         else{
+          console.log("inside default merch")
             this.industry = "SportsMerch" 
         }
         console.log(this.industry)
@@ -196,15 +197,18 @@ getCategory(){
 }
 }
 getCategoriesByIndustry(industry){
+  console.log("industry", industry)
   if(industry == "SportsMerch"){
-
+    console.log("inside merch")
       this.subCategories=this.subCategoriesSportsMerch;   
     }
-    else if (industry =="SportsEquipment"){
+    else if (industry == "SportsEquipment"){
+
       console.log("inside iequip")
       this.subCategories=this.subCategoriesSportsEquipment;
     }
     else if (industry =="GOAT"){
+      console.log("inside goat")
       this.subCategories=this.subCategoriesGOAT;
     }
 }

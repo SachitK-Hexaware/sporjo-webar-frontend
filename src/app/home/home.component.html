@@ -7,7 +7,7 @@
       <swiper  [zoom]="false" [slidesPerView]="(screenWidth > 1200) ? 3 : 1" [spaceBetween]="5" [pagination]="true"
         [loop]="true" [autoplay]="true">
          <ng-template swiperSlide *ngFor="let c of categories">
-          <a (click)="industrySelect(c.name,'all')">
+          <a (click)="industrySelect(c.industry,'all')">
             <div class="category-card" style="background:url({{c.img}}); width:100%; transition: transform 0.2s;" [ngStyle]="{'height':'150px'}" >{{ c.name }}</div>
           </a>
           
