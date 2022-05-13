@@ -27,17 +27,17 @@ export class HomeComponent implements OnInit {
   categories: any[] = [
     {
       name: 'Sports Merch',
-      img: 'https://arasset.azureedge.net/webar/icons/furniture_industry.jpg',
+      img: 'https://tulanedigcontent.blob.core.windows.net/mtc-release/webar-hack-sporjo/merch.png',
       industry: 'SportsMerch'
     },
     {
       name: 'Sports Equipment',
-      img: 'https://arasset.azureedge.net/webar/icons/fashion_industry.jpg',
+      img: 'https://tulanedigcontent.blob.core.windows.net/mtc-release/webar-hack-sporjo/equipment.png',
       industry: 'SportsEquipment'
     },
     {
       name: 'GOAT',
-      img: 'https://arasset.azureedge.net/webar/icons/machinery_industry.jpg',
+      img: 'https://tulanedigcontent.blob.core.windows.net/mtc-release/webar-hack-sporjo/goat.png',
       industry: 'GOAT'
     }
   

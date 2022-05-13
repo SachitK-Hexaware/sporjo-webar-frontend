@@ -10,6 +10,9 @@
       </swiper> -->
       <div style="padding: 35px;" class="row">
         <div class="col-md-6 float-center">
+          <script> 
+          console.log("produc stc", product.src)
+          </script>
           <model-viewer id="dimension-demo" ar ar-modes="scene-viewer webxr quick-look" ar-scale="fixed" camera-orbit="-30deg auto auto"
             max-camera-orbit="auto 100deg auto" shadow-intensity="1" camera-controls src={{product.src}}
             ios-src={{product.ios_src}} alt="" poster={{product.product_image_url}} loading="lazy"
