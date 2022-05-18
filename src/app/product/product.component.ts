@@ -18,6 +18,7 @@ import SwiperCore, {
   Controller,
 } from 'swiper/core';
 import { CartService } from '../services/cart.service';
+import { environment } from 'src/environments/environment';
 // import { Product } from '../shared/models/hack.model';
 
 // install Swiper components
@@ -92,7 +93,7 @@ export class ProductComponent implements OnInit {
       
   }
   getQrCode(industry, id) {
-    this._product.getQrCode({"url": 'https://web-ar-middleware.azurewebsites.net/api/v1/scanQrCode/'+industry+'/'+id}).subscribe(
+    this._product.getQrCode({"url": environment.apiUrl+'scanQrCode/'+industry+'/'+id}).subscribe(
                 res=>{
                     this.qrResult = res.result;
                 }
@@ -105,7 +106,7 @@ export class ProductComponent implements OnInit {
     //         this.product = res.Product;
     //         // console.log(res)
     //     })
-    this.sub = this._product.getProducts('https://web-ar-middleware.azurewebsites.net/api/v1/'+industry+'/'+id).subscribe(
+    this.sub = this._product.getProducts(environment.apiUrl+industry+'/'+id).subscribe(
         res=>{
           this.product = res.Product
           this.loading = false

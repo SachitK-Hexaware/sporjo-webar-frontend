@@ -30,7 +30,7 @@ export class ProductService {
   public getProducts(endpoint: string) : Observable<any>{
     return this.http.get<any>(endpoint); 
    }
-   getQrCodeEndpoint : string ='https://web-ar-middleware.azurewebsites.net/api/v1/makeQrCode';
+   getQrCodeEndpoint : string =environment.apiUrl+'makeQrCode';
    public getQrCode(body: any) : Observable<any> {
     return this.http.post<any>(this.getQrCodeEndpoint, body);
   }

@@ -8,6 +8,7 @@ import {
 import { CartService } from '../services/cart.service';
 import { ProductService } from '../services/product.service';
 import { Products, Product } from '../shared/models/hack.model';
+import { environment } from 'src/environments/environment';
 
 
 @Component({
@@ -150,14 +151,14 @@ export class HomeComponent implements OnInit {
     if(this.category == "all")
 {   
     console.log("inside if")
-    this.sub = this.productService.getProducts('https://web-ar-middleware.azurewebsites.net/api/v1/'+this.industry+'/getAll').subscribe(
+    this.sub = this.productService.getProducts(environment.apiUrl+this.industry+'/getAll').subscribe(
         res=>{
           this.products=res.Products;
           
         })}
         else{
             console.log("inside else")
-            var query = 'https://web-ar-middleware.azurewebsites.net/api/v1/'+this.industry+'/'+this.category+'/getAll'
+            var query = environment.apiUrl+this.industry+'/'+this.category+'/getAll'
             console.log(query)
             this.sub = this.productService.getProducts(query).subscribe(
         res=>{
