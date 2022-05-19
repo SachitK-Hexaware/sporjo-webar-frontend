@@ -1,4 +1,4 @@
-# Web AR Framework Frontend [Live Demo](https://webarfrontend.azurewebsites.net/)
+# Web AR Framework Frontend [Live Demo](https://sporjo-webar-frontend.herokuapp.com/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.6.
 
@@ -8,7 +8,7 @@ Install the dependencies and devDependencies and start the server.
 ```
 npm install
 ```
-* [Clone the backend repo](https://github.com/shaddeykatri/business-and-retail-web-ar)
+* [Clone the backend repo](https://github.com/Anitachauhan/sporjo-webar-backend)
 
 ## Development server
 
