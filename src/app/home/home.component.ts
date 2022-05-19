@@ -10,6 +10,7 @@ import { ProductService } from '../services/product.service';
 import { Products, Product } from '../shared/models/hack.model';
 import { environment } from 'src/environments/environment';
 
+require('dotenv').config();
 
 @Component({
   selector: 'app-home',
@@ -151,14 +152,14 @@ export class HomeComponent implements OnInit {
     if(this.category == "all")
 {   
     console.log("inside if")
-    this.sub = this.productService.getProducts(environment.apiUrl+this.industry+'/getAll').subscribe(
+    this.sub = this.productService.getProducts(process.env.BACKEND_URL+this.industry+'/getAll').subscribe(
         res=>{
           this.products=res.Products;
           
         })}
         else{
             console.log("inside else")
-            var query = environment.apiUrl+this.industry+'/'+this.category+'/getAll'
+            var query = process.env.BACKEND_URL+this.industry+'/'+this.category+'/getAll'
             console.log(query)
             this.sub = this.productService.getProducts(query).subscribe(
         res=>{

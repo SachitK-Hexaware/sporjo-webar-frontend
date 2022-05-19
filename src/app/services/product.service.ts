@@ -5,6 +5,8 @@ import { Products, Product } from '../shared/models/product.model';
 import { environment } from '../../environments/environment';
 import { ApiService } from './api.service';
 
+require('dotenv').config();
+
 @Injectable({
   providedIn: 'root',
 })
@@ -30,7 +32,7 @@ export class ProductService {
   public getProducts(endpoint: string) : Observable<any>{
     return this.http.get<any>(endpoint); 
    }
-   getQrCodeEndpoint : string =environment.apiUrl+'makeQrCode';
+   getQrCodeEndpoint : string =process.env.BACKEND_URL+'makeQrCode';
    public getQrCode(body: any) : Observable<any> {
     return this.http.post<any>(this.getQrCodeEndpoint, body);
   }
