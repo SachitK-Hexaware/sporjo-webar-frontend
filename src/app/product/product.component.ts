@@ -21,7 +21,7 @@ import { CartService } from '../services/cart.service';
 import { environment } from 'src/environments/environment';
 // import { Product } from '../shared/models/hack.model';
 
-require('dotenv').config();
+
 
 // install Swiper components
 SwiperCore.use([

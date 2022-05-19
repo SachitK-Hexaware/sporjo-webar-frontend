@@ -5,7 +5,7 @@ import { Products, Product } from '../shared/models/product.model';
 import { environment } from '../../environments/environment';
 import { ApiService } from './api.service';
 
-require('dotenv').config();
+
 
 @Injectable({
   providedIn: 'root',

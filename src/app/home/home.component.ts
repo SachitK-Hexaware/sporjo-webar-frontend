@@ -10,7 +10,7 @@ import { ProductService } from '../services/product.service';
 import { Products, Product } from '../shared/models/hack.model';
 import { environment } from 'src/environments/environment';
 
-require('dotenv').config();
+
 
 @Component({
   selector: 'app-home',
