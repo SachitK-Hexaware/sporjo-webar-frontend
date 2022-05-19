@@ -49,6 +49,8 @@ const environmentFileContent = `
   };
 `;
 
+console.log(process.env.BACKEND_URL)
+
 writeFileUsingFS(targetPath, environmentFileContent); // appending data into the target file
 
 /* tslint:enable */
