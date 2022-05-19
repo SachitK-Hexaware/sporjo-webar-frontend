@@ -95,7 +95,7 @@ export class ProductComponent implements OnInit {
       
   }
   getQrCode(industry, id) {
-    this._product.getQrCode({"url": process.env.BACKEND_URL+'scanQrCode/'+industry+'/'+id}).subscribe(
+    this._product.getQrCode({"url": environment.apiUrl+'scanQrCode/'+industry+'/'+id}).subscribe(
                 res=>{
                     this.qrResult = res.result;
                 }
@@ -108,7 +108,7 @@ export class ProductComponent implements OnInit {
     //         this.product = res.Product;
     //         // console.log(res)
     //     })
-    this.sub = this._product.getProducts(process.env.BACKEND_URL+industry+'/'+id).subscribe(
+    this.sub = this._product.getProducts(environment.apiUrl+industry+'/'+id).subscribe(
         res=>{
           this.product = res.Product
           this.loading = false

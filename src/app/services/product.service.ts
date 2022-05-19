@@ -32,7 +32,7 @@ export class ProductService {
   public getProducts(endpoint: string) : Observable<any>{
     return this.http.get<any>(endpoint); 
    }
-   getQrCodeEndpoint : string =process.env.BACKEND_URL+'makeQrCode';
+   getQrCodeEndpoint : string =environment.apiUrl+'makeQrCode';
    public getQrCode(body: any) : Observable<any> {
     return this.http.post<any>(this.getQrCodeEndpoint, body);
   }
