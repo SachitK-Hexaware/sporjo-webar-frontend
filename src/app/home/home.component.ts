@@ -49,6 +49,10 @@ export class HomeComponent implements OnInit {
     {
       name: 'Jersey',
       img: 'https://arasset.azureedge.net/webar/icons/footwear.png'
+    },
+    {
+      name: 'Logo',
+      img: 'https://arasset.azureedge.net/webar/icons/footwear.png'
     }
   ]
 
@@ -64,7 +68,19 @@ export class HomeComponent implements OnInit {
   {
       name: 'Trophy',
       img: 'https://arasset.azureedge.net/webar/icons/set.png'
-  }
+  },
+  {
+    name: 'Stump',
+    img: 'https://arasset.azureedge.net/webar/icons/set.png'
+},
+{
+  name: 'Bat',
+  img: 'https://arasset.azureedge.net/webar/icons/set.png'
+},
+{
+  name: 'Headwear',
+  img: 'https://arasset.azureedge.net/webar/icons/set.png'
+}
   ]
 
   subCategoriesGOAT: any[] = [
