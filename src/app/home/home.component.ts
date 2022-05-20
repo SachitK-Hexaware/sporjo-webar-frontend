@@ -29,17 +29,17 @@ export class HomeComponent implements OnInit {
   categories: any[] = [
     {
       name: 'Sports Merch',
-      img: 'https://tulanedigcontent.blob.core.windows.net/mtc-release/webar-hack-sporjo/merch.png',
+      img: 'https://rndlabcdn.azureedge.net/mtc-release/webar-hack-sporjo/merch.png',
       industry: 'SportsMerch'
     },
     {
       name: 'Sports Equipment',
-      img: 'https://tulanedigcontent.blob.core.windows.net/mtc-release/webar-hack-sporjo/equipment.png',
+      img: 'https://rndlabcdn.azureedge.net/mtc-release/webar-hack-sporjo/equipment.png',
       industry: 'SportsEquipment'
     },
     {
       name: 'GOAT',
-      img: 'https://tulanedigcontent.blob.core.windows.net/mtc-release/webar-hack-sporjo/goat.png',
+      img: 'https://rndlabcdn.azureedge.net/mtc-release/webar-hack-sporjo/goat.png',
       industry: 'GOAT'
     }
   
@@ -48,46 +48,46 @@ export class HomeComponent implements OnInit {
   subCategoriesSportsMerch: any[] = [
     {
       name: 'Jersey',
-      img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/jersey.png'
+      img: 'https://rndlabcdn.azureedge.net/sporjo-dataset/icons/jersey.png'
     },
     {
       name: 'Logo',
-      img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/logo-design.png'
+      img: 'https://rndlabcdn.azureedge.net/sporjo-dataset/icons/logo-design.png'
     }
   ]
 
   subCategoriesSportsEquipment: any[] = [
     {
       name: 'Ball',
-      img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/ball.png'
+      img: 'https://rndlabcdn.azureedge.net/sporjo-dataset/icons/ball.png'
   },
   {
       name: 'Shoe',
-      img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/shoe.png'
+      img: 'https://rndlabcdn.azureedge.net/sporjo-dataset/icons/shoe.png'
   },
   {
       name: 'Trophy',
-      img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/trophy.png'
+      img: 'https://rndlabcdn.azureedge.net/sporjo-dataset/icons/trophy.png'
   },
   {
     name: 'Stump',
-    img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/stump.png'
+    img: 'https://rndlabcdn.azureedge.net/sporjo-dataset/icons/stump.png'
 },
 {
   name: 'Bat',
-  img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/bat.png'
+  img: 'https://rndlabcdn.azureedge.net/sporjo-dataset/icons/bat.png'
 },
 {
   name: 'Headwear',
-  img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/headwear.png'
+  img: 'https://rndlabcdn.azureedge.net/sporjo-dataset/icons/headwear.png'
 }
   ]
 
   subCategoriesGOAT: any[] = [
     
       {
-        name: 'Printer',
-        img: 'https://arasset.azureedge.net/webar/icons/printer.png'
+        name: 'Champions',
+        img: 'https://rndlabcdn.azureedge.net/sporjo-dataset/icons/goat.png'
       }
     
   ]
