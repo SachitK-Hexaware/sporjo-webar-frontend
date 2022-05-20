@@ -48,38 +48,38 @@ export class HomeComponent implements OnInit {
   subCategoriesSportsMerch: any[] = [
     {
       name: 'Jersey',
-      img: 'https://arasset.azureedge.net/webar/icons/footwear.png'
+      img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/jersey.png'
     },
     {
       name: 'Logo',
-      img: 'https://arasset.azureedge.net/webar/icons/footwear.png'
+      img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/logo-design.png'
     }
   ]
 
   subCategoriesSportsEquipment: any[] = [
     {
       name: 'Ball',
-      img: 'https://arasset.azureedge.net/webar/icons/rack.png'
+      img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/ball.png'
   },
   {
       name: 'Shoe',
-      img: 'https://arasset.azureedge.net/webar/icons/sofa.png'
+      img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/shoe.png'
   },
   {
       name: 'Trophy',
-      img: 'https://arasset.azureedge.net/webar/icons/set.png'
+      img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/trophy.png'
   },
   {
     name: 'Stump',
-    img: 'https://arasset.azureedge.net/webar/icons/set.png'
+    img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/stump.png'
 },
 {
   name: 'Bat',
-  img: 'https://arasset.azureedge.net/webar/icons/set.png'
+  img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/bat.png'
 },
 {
   name: 'Headwear',
-  img: 'https://arasset.azureedge.net/webar/icons/set.png'
+  img: 'https://tulanedigcontent.blob.core.windows.net/sporjo-dataset/icons/headwear.png'
 }
   ]
 
