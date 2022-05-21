@@ -13,11 +13,12 @@
           <script> 
           console.log("produc stc", product.src)
           </script>
-          <model-viewer id="dimension-demo" ar ar-modes="scene-viewer webxr quick-look" camera-orbit="-30deg auto auto"
-            max-camera-orbit="auto 100deg auto" shadow-intensity="1" camera-controls src={{product.src}}
+          <model-viewer id="dimension-demo" enable-pan resizable="true" ar ar-scale="auto" autoplay ar-modes="scene-viewer webxr quick-look" camera-orbit="-30deg auto auto"
+            max-camera-orbit="auto 50deg auto" shadow-intensity="1" camera-controls src={{product.src}}
             ios-src={{product.ios_src}} alt="" poster={{product.product_image_url}} loading="lazy"
             style="position: relative;"
             [ngStyle]="{'height':(screenWidth > 1200)? '450px' : '300px', 'width':(screenWidth > 1200)? '600px' : '350px'}">
+            
             <!-- <button class="btn-dark" (click)="openPopup()" style="vertical-align: middle;">
            
             <div> View in AR</div>
